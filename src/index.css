@@ -1,0 +1,31 @@
+/* 
+#FF6954 buttons background color
+#fef0ec background color
+*/
+
+/* ----------------------------------------------- */
+/* BASIC SETUP */
+/* ----------------------------------------------- */
+*,
+*::after,
+*::before {
+  padding: 0;
+  margin: 0;
+  box-sizing: inherit;
+}
+
+html,
+body {
+  text-rendering: optimizeLegibility;
+  overflow-x: hidden;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #0c2e4e;
+  box-sizing: border-box;
+}
